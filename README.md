@@ -1,2 +1,2 @@
 # BitMEXDualThrust
-BitMEX上DualThrust策略测试
+Dual Thrust Strategy test on BitMEX
