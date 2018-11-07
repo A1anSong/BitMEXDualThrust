@@ -1,0 +1,9 @@
+{
+  "users": [
+    {
+      "accountName": "Your BitMEX account",
+      "apiKey": "Your apiKey",
+      "apiSecret": "your apiSecret"
+    }
+  ]
+}
